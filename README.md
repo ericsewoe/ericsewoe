@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ericsewoe/ericsewoe/main/banner.png" alt="Eric Gomado - DevOps Engineer" />
+</p>
+
 # 👋 Hi there, I'm Eric Gomado
 
 🌍 A passionate **DevOps Engineer** with a strong focus on cloud infrastructure, automation, CI/CD, and monitoring. I thrive on building secure, scalable, and efficient systems that support rapid development and reliable deployment.
